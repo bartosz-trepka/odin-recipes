@@ -20,6 +20,8 @@ p,
 li,
 a {
     color: #aaa;
+    padding-left: 3px;
+    border-left: #222 3px solid;
 }
 
 img {
@@ -35,7 +37,8 @@ img {
 }
 
 a:hover {
-    color: #111;
+    border-left: #ddd 3px solid;
+    color: #ddd;
 }
 
 li {
