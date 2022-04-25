@@ -1,5 +1,5 @@
 # odin-recipes
-Basic recipe website using HTML (The Odin Project - Foundations)
+Basic recipe website using HTML & CSS (The Odin Project - Foundations)
 
 Recipes comes from https://www.allrecipes.com/
 
